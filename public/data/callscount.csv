@@ -1,0 +1,584 @@
+dse_id,dse,route_id,route,distributor_id,subd_name,schedule_call,call_made,successfull_call,call_not_performed
+34,"Bhishan Thapa",77,"Gpoikrishna A",28,GDPL,10,10,5,0
+22,"Subash Basnet",81,"Mangal Bazar A",5,"Amazon Distributors Patan",20,20,13,0
+42,"Hari Babu",113,Chhetrapati,6,"Amazon Distributors Tahachal",33,33,12,0
+52,"Bashu Dev Phuyal",145,Tokha[Baniyatar,9,"Om Devaya Trade Concern",10,10,5,0
+41,"Raj Kumar Kandel",153,Kapan,28,GDPL,5,5,4,0
+21,"Ravi Shrestha",175,"Tindobatto - Ganeshthan",3,"Smart Marketing Suppliers",20,20,16,0
+11,"Sushan Karmacharya",183,"Banepa Buspark",3,"Smart Marketing Suppliers",7,7,5,0
+29,"Sriram Bhandari",197,"AVM Chowk B",5,"Amazon Distributors Patan",15,15,3,0
+24,"Sudarshan Joshi",221,"Lagankhel B",5,"Amazon Distributors Patan",17,17,10,0
+28,"Dinprasad Subedi",222,"Patan Hospital B",5,"Amazon Distributors Patan",24,24,14,0
+54,"Uday Budhathoki",223,"Bus Park[Goungabu]",9,"Om Devaya Trade Concern",33,33,20,0
+44,"Prakash Pradhan",235,Lagan,6,"Amazon Distributors Tahachal",17,17,10,0
+36,"Krishna Simkhada",238,Dallu,8,"Sayapatri Enterprises",14,14,7,0
+55,"Ujjawal Giri",240,Dallu-A,8,"Sayapatri Enterprises",18,18,6,0
+45,"Santosh Basnet",244,"Newroad -tebhal",6,"Amazon Distributors Tahachal",18,18,13,0
+53,"Avinash Chaudhary",247,Machapokhari,9,"Om Devaya Trade Concern",21,20,7,1
+43,"Man Bahadur",249,Kalanki-T,6,"Amazon Distributors Tahachal",26,26,17,0
+33,"Bipin Yadav",257,"Sukedhara clony A1",7,"General Distributors",30,30,10,0
+40,"Rajiv Das",258,"Nilopul A2",7,"General Distributors",30,30,14,0
+39,"David Gautam",277,"Faika A3",7,"General Distributors",26,26,17,0
+46,"Netra Bhattarai",302,"Dhumbarahi A",10,"Elite Marketing",23,23,15,0
+62,"Suresh Gothe",321,"Satdobato lagankhel S",5,"Amazon Distributors Patan",24,24,14,0
+67,"Dipan Dhungana",333,Chamasing,4,"Pyramid Distributors Pvt",19,19,7,0
+66,"Sushant Neupane",336,"Bhakatapur Natapole",4,"Pyramid Distributors Pvt",16,16,5,0
+65,"Amrit Paudel",339,Siddhipokhari,4,"Pyramid Distributors Pvt",26,26,15,0
+61,"Manoj Maharjan",359,"Satdobato1-Talchhikhel D",5,"Amazon Distributors Patan",28,28,15,0
+48,"Anil Lama",362,"Battisputali II",10,"Elite Marketing",32,32,20,0
+71,"Pawan Maharjan",376,"Balkumari BY",16,"Youbik Trade",24,24,16,0
+63,"Tashi Lama",380,"Satdobato khumaltar T",5,"Amazon Distributors Patan",21,21,10,0
+87,"Jeevan Shahi",387,"Tenzing Kharibot B",7,"General Distributors",12,12,6,0
+47,"Kiran Thapa",397,"Nil Saraswoti marga A",10,"Elite Marketing",29,29,21,0
+183,"Pragyan Kapar",405,"Birendra chok",4,"Pyramid Distributors Pvt",12,12,7,0
+184,"Prajit KC",416,"Lokanthali Left",4,"Pyramid Distributors Pvt",14,14,8,0
+232,"Nayan Shrestha",431,"Ramhity B",7,"General Distributors",17,17,10,0
+64,"Umesh Prasad Bhatt",435,"Satdobato Khumaltar U",5,"Amazon Distributors Patan",23,23,11,0
+85,"Sudip Pyakurel",439,"Mahakal D",7,"General Distributors",25,25,11,0
+88,"Regan Regmi",447,"Tinchuli D2",7,"General Distributors",19,19,11,0
+50,"Dinesh Kumar Tharu",448,"New koteshwar A",10,"Elite Marketing",26,26,16,0
+95,"Dharmendra Ray Yadav",457,"Balkumari kousam  ya",16,"Youbik Trade",24,24,12,0
+76,"Bishal Khanal",504,"Tokha Road- IV",9,"Om Devaya Trade Concern",21,21,11,0
+78,"Suresh Poudel",542,Mayeepee-O,9,"Om Devaya Trade Concern",4,4,3,0
+77,"Sultan Miya",582,"ManaMaiju- III",9,"Om Devaya Trade Concern",12,12,8,0
+82,"Sudip Subedi",587,"Dallu III",8,"Sayapatri Enterprises",22,22,11,0
+94,"Suraj Subba",641,"Bhotebhal f2",6,"Amazon Distributors Tahachal",22,22,12,0
+110,"Bishal Karki",692,"Salesways Supermarket",18,"United Distributors Nepal",3,3,1,0
+132,"Prem Pathak",705,Dudhe,15,"Horizon Distributors Birtamod",26,26,9,0
+125,"Debesh Dhungana",724,"Mahendra Path",13,"Horizon Distributors Dharan",21,21,14,0
+127,"Saugat Shrestha",746,"Zero Point",13,"Horizon Distributors Dharan",29,29,21,0
+118,"Sumit Shrestha",787,"Gudri Small",11,"Horizon Distributors Biratnagar",27,27,11,0
+120,"Anil Rai",794,"Hospital Line",11,"Horizon Distributors Biratnagar",21,21,16,0
+128,"Subesh Shrestha",809,"Sukra Path",13,"Horizon Distributors Dharan",32,32,23,0
+123,"Sabin Bhattarai",815,"Pasupati Marg to BusPark",12,"New Horizon Distributors Itahari",17,17,7,0
+124,"Santosh Ghimire",833,Jhumka,12,"New Horizon Distributors Itahari",17,17,7,0
+117,"Suraj Timalsina",843,Buspark,11,"Horizon Distributors Biratnagar",33,33,20,0
+122,"Arjun Dahal",856,Tarahara,12,"New Horizon Distributors Itahari",18,18,12,0
+133,"Dipak Khadka",872,"Btm Bus Park",15,"Horizon Distributors Birtamod",21,21,19,0
+134,"Netra Dahal",877,"Btm Bus park Road-Small",15,"Horizon Distributors Birtamod",22,22,9,0
+121,"Khosh Raj Ghimire",900,"Sasastra Camp",12,"New Horizon Distributors Itahari",26,26,12,0
+146,"Kishan Nepali",916,"Ram Bazar MM",19,"Regency Trading",12,12,11,0
+145,"Madhav Chapagain",924,"Buddha chowk  LG",19,"Regency Trading",8,8,3,0
+156,"Sabita Dahal",927,"Chhorepatan MD",19,"Regency Trading",18,18,11,0
+151,"Shiva Nepali",935,"Ram Bazar MD",19,"Regency Trading",24,24,19,0
+147,"Sanju Thapa Magar",938,"Amar Singh Chowk MD",19,"Regency Trading",20,20,12,0
+148,"Nishan Subedi",940,"Hospital Line MD",19,"Regency Trading",24,24,17,0
+154,"Janaki Pokharel",956,"Devis Falls SM",19,"Regency Trading",29,29,12,0
+149,"Kopila Chuwain",1013,"Gauri Marga SM",19,"Regency Trading",25,25,11,0
+176,"Samikchya Rana",1038,"Hospital Line SM",19,"Regency Trading",27,27,15,0
+165,"Prabesh Kattel",1043,"Pul Chowk LG",20,"Delight Distributors",14,8,6,6
+169,"Juna Lamichhane",1052,"Cancer Hospital Road MD",20,"Delight Distributors",24,24,15,0
+228,"Sushan Nepal",1078,"Parsha MD",20,"Delight Distributors",20,20,10,0
+135,"Hari Bhetwal",1106,Charpane,15,"Horizon Distributors Birtamod",19,17,15,2
+181,"Ramesh Thakur",1116,Birta,22,"Janabi Distributors Pvt",23,23,11,0
+181,"Ramesh Thakur",1117,Ranighat,22,"Janabi Distributors Pvt",22,22,14,0
+180,"Baidanath Thakur",1120,Jeetpur-2,22,"Janabi Distributors Pvt",18,18,12,0
+182,"Sunny Gupta",1130,Ranighat-1,22,"Janabi Distributors Pvt",25,25,15,0
+191,"Asis Bhatarai",1152,Itabhatti,23,"Nava Durga",17,16,11,1
+192,"Surendra Chaudhary",1186,Naranpath,24,"Mutual Trade Centre",21,21,14,0
+80,"Ranjit Kumar",1202,Chabahil,17,"General Marketing",5,5,1,0
+173,"Reshma Majhi",1216,"Bojad SM",20,"Delight Distributors",20,20,6,0
+194,"Gaurab Basnet",1231,"Gulariya bajar",25,"Vijay Kumar Goyl",25,25,22,0
+225,"Tulram Chaudhary",1241,"Hospital Line",26,"Kalapatthar Traders",21,21,21,0
+226,"Bindu Kathriya",1242,"Hospital Line S",26,"Kalapatthar Traders",21,21,13,0
+217,"Ashok Chadhary",1251,Devinagar,23,"Nava Durga",22,4,3,18
+237,"Ram Kanta",1275,Khairenitar,27,"Roshani & Roshan Suppliers",21,21,13,0
+133,"Dipak Khadka",707,"Btm Highway",15,"Horizon Distributors Birtamod",31,31,20,0
+132,"Prem Pathak",710,Surunga,15,"Horizon Distributors Birtamod",31,31,19,0
+125,"Debesh Dhungana",721,"Bhanu Marg",13,"Horizon Distributors Dharan",17,17,11,0
+128,"Subesh Shrestha",726,Bargachhi,13,"Horizon Distributors Dharan",36,36,19,0
+129,"Khagendra Niraula",728,"Pashuhat Road",14,"Horizon Distributors Damak",24,24,19,0
+131,"Gopal Acharya",733,"Gauradaha To Gauriganj",14,"Horizon Distributors Damak",25,25,18,0
+127,"Saugat Shrestha",738,"Sadan Road",13,"Horizon Distributors Dharan",18,18,13,0
+134,"Netra Dahal",776,"Sanischare Road-Small",15,"Horizon Distributors Birtamod",21,21,12,0
+121,"Khosh Raj Ghimire",873,Duhabi,12,"New Horizon Distributors Itahari",24,24,11,0
+122,"Arjun Dahal",875,"Sonapur to Itahari",12,"New Horizon Distributors Itahari",20,20,9,0
+135,"Hari Bhetwal",887,Surunga-Small,15,"Horizon Distributors Birtamod",22,22,15,0
+124,"Santosh Ghimire",895,"Duhabi Bazar S",12,"New Horizon Distributors Itahari",15,15,9,0
+123,"Sabin Bhattarai",896,"Duhabi to Sonapur",12,"New Horizon Distributors Itahari",15,15,9,0
+173,"Reshma Majhi",1067,"Kshetrapur SM",20,"Delight Distributors",20,20,7,0
+165,"Prabesh Kattel",1070,"Main Road LG",20,"Delight Distributors",13,13,6,0
+168,"Deepak Mishra",1075,"TANDI BAZAR MD",20,"Delight Distributors",13,13,4,0
+169,"Juna Lamichhane",1088,"By Pass to Gondrang MD",20,"Delight Distributors",24,23,16,1
+130,"Umesh Karki",1269,"Pashuhat F4",14,"Horizon Distributors Damak",12,12,10,0
+39,"David Gautam",45,"Kalopul A3",7,"General Distributors",25,25,18,0
+36,"Krishna Simkhada",46,Kirtipur,8,"Sayapatri Enterprises",15,15,6,0
+42,"Hari Babu",48,Ason,6,"Amazon Distributors Tahachal",27,27,14,0
+34,"Bhishan Thapa",63,"Dhumbarai A",28,GDPL,12,12,6,0
+22,"Subash Basnet",75,"Lagankhel A",5,"Amazon Distributors Patan",19,19,10,0
+40,"Rajiv Das",98,"Hadigaun A2",7,"General Distributors",25,25,11,0
+33,"Bipin Yadav",99,"Ganesthan A1",7,"General Distributors",20,20,18,0
+52,"Bashu Dev Phuyal",104,Khusibu,9,"Om Devaya Trade Concern",12,12,6,0
+54,"Uday Budhathoki",109,Khusibu-A,9,"Om Devaya Trade Concern",33,33,15,0
+53,"Avinash Chaudhary",110,Pakanajol,9,"Om Devaya Trade Concern",28,28,15,0
+29,"Sriram Bhandari",124,"Bhaisepati B",5,"Amazon Distributors Patan",22,22,11,0
+24,"Sudarshan Joshi",125,"Bhanimandal B",5,"Amazon Distributors Patan",15,15,9,0
+28,"Dinprasad Subedi",129,"Nakhu B",5,"Amazon Distributors Patan",18,18,11,0
+45,"Santosh Basnet",131,Bhedasing,6,"Amazon Distributors Tahachal",30,30,20,0
+44,"Prakash Pradhan",142,Jamal,6,"Amazon Distributors Tahachal",23,23,13,0
+41,"Raj Kumar Kandel",147,Koteswor,28,GDPL,7,7,6,0
+21,"Ravi Shrestha",171,Highway,3,"Smart Marketing Suppliers",19,19,8,0
+55,"Ujjawal Giri",224,Maitrinagar,8,"Sayapatri Enterprises",15,15,4,0
+43,"Man Bahadur",251,Balkhu-T,6,"Amazon Distributors Tahachal",29,29,17,0
+66,"Sushant Neupane",261,Townplanning,4,"Pyramid Distributors Pvt",18,18,11,0
+67,"Dipan Dhungana",265,Khadaghari,4,"Pyramid Distributors Pvt",19,19,7,0
+65,"Amrit Paudel",266,"Pepsicola Chok",4,"Pyramid Distributors Pvt",20,20,10,0
+62,"Suresh Gothe",276,"Kupondol 2 S",5,"Amazon Distributors Patan",21,21,14,0
+46,"Netra Bhattarai",303,"Baluwatar II A",10,"Elite Marketing",19,19,18,0
+48,"Anil Lama",308,"Shantinagar A",10,"Elite Marketing",24,24,16,0
+61,"Manoj Maharjan",326,"Kupondol 1 D",5,"Amazon Distributors Patan",25,25,15,0
+63,"Tashi Lama",368,"Sanepa-Kaalopul T",5,"Amazon Distributors Patan",29,29,16,0
+64,"Umesh Prasad Bhatt",396,"Ekantakuna Bhanimandal U",5,"Amazon Distributors Patan",21,21,16,0
+71,"Pawan Maharjan",419,"Imadol Lubhu BY",16,"Youbik Trade",25,25,17,0
+50,"Dinesh Kumar Tharu",440,"Sos  Koteshwar A",10,"Elite Marketing",30,30,19,0
+87,"Jeevan Shahi",441,"Tinchuli D",7,"General Distributors",17,17,10,0
+85,"Sudip Pyakurel",466,"Gaurighat E",7,"General Distributors",23,23,17,0
+232,"Nayan Shrestha",467,"Maijubahal E",7,"General Distributors",20,20,10,0
+88,"Regan Regmi",469,"Gaurighat Ganesr-Mandir E",7,"General Distributors",20,20,13,0
+86,"Kiran Pyakurel",470,"Tusal Re E",7,"General Distributors",21,21,13,0
+82,"Sudip Subedi",480,NAGAU,8,"Sayapatri Enterprises",20,20,10,0
+78,"Suresh Poudel",486,Ganeshsthan-D,9,"Om Devaya Trade Concern",11,11,3,0
+77,"Sultan Miya",535,"Paknajol- I",9,"Om Devaya Trade Concern",20,20,13,0
+76,"Bishal Khanal",551,Khusibu-III,9,"Om Devaya Trade Concern",16,16,8,0
+94,"Suraj Subba",620,"Bangemuda to jayatha",6,"Amazon Distributors Tahachal",20,20,13,0
+95,"Dharmendra Ray Yadav",663,"SanoGau ya",16,"Youbik Trade",20,20,11,0
+80,"Ranjit Kumar",684,Thamel,17,"General Marketing",6,6,0,0
+133,"Dipak Khadka",693,"Bhadrapur Road",15,"Horizon Distributors Birtamod",29,29,18,0
+125,"Debesh Dhungana",709,"Camp Road",13,"Horizon Distributors Dharan",18,18,13,0
+132,"Prem Pathak",712,Chandragadi,15,"Horizon Distributors Birtamod",22,22,12,0
+135,"Hari Bhetwal",713,Bhadrapur,15,"Horizon Distributors Birtamod",27,27,18,0
+120,"Anil Rai",731,Gudri,11,"Horizon Distributors Biratnagar",21,21,10,0
+127,"Saugat Shrestha",737,"Chatra Marg",13,"Horizon Distributors Dharan",17,17,12,0
+118,"Sumit Shrestha",754,Kanchanbari,11,"Horizon Distributors Biratnagar",17,17,2,0
+129,"Khagendra Niraula",755,"Pathari Bazar A",14,"Horizon Distributors Damak",24,24,19,0
+121,"Khosh Raj Ghimire",763,"Birat Chowk",12,"New Horizon Distributors Itahari",22,22,8,0
+123,"Sabin Bhattarai",811,"Pashupati Marg",12,"New Horizon Distributors Itahari",17,17,7,0
+128,"Subesh Shrestha",821,"Ghopa Camp Medical",13,"Horizon Distributors Dharan",31,31,27,0
+134,"Netra Dahal",835,"New Bhadrapur road-Small",15,"Horizon Distributors Birtamod",21,21,15,0
+117,"Suraj Timalsina",876,"Hospital Chowk Small",11,"Horizon Distributors Biratnagar",33,33,23,0
+145,"Madhav Chapagain",914,"Lamachaur LG",19,"Regency Trading",9,8,8,1
+146,"Kishan Nepali",920,"Mahendra Pool MM",19,"Regency Trading",12,12,12,0
+151,"Shiva Nepali",923,"Tudikhal MD",19,"Regency Trading",24,24,13,0
+147,"Sanju Thapa Magar",925,"Taxi Chowk MD",19,"Regency Trading",27,27,17,0
+148,"Nishan Subedi",926,"Mahendra Gufa MD",19,"Regency Trading",23,23,13,0
+122,"Arjun Dahal",962,"R C T Market",12,"New Horizon Distributors Itahari",19,19,8,0
+149,"Kopila Chuwain",965,"Manipal College SM",19,"Regency Trading",25,25,13,0
+154,"Janaki Pokharel",969,"Taxi Chowk SM",19,"Regency Trading",28,28,12,0
+176,"Samikchya Rana",974,"Moharia Tole SM",19,"Regency Trading",22,22,12,0
+169,"Juna Lamichhane",1054,"By Pass Road MD",20,"Delight Distributors",21,19,15,2
+165,"Prabesh Kattel",1060,"Bharatpur LG",20,"Delight Distributors",17,17,7,0
+174,"Navaraj Baniya",1081,"Kawasoti Line A",21,"Saraswoti Traders",20,20,18,0
+173,"Reshma Majhi",1099,"Dursanchar Road SM",20,"Delight Distributors",17,17,4,0
+181,"Ramesh Thakur",1110,"Street no 2",22,"Janabi Distributors Pvt",18,18,13,0
+180,"Baidanath Thakur",1122,Adarshnager,22,"Janabi Distributors Pvt",23,23,11,0
+182,"Sunny Gupta",1124,"Road No-3",22,"Janabi Distributors Pvt",20,20,12,0
+131,"Gopal Acharya",1135,"Letang Bazar",14,"Horizon Distributors Damak",19,19,14,0
+189,"Krishan Ghimire",1144,"Traffic chok",23,"Nava Durga",13,13,1,0
+191,"Asis Bhatarai",1151,"Hattbazar - Amarpath",23,"Nava Durga",22,22,10,0
+217,"Ashok Chadhary",1160,"Pari butwal",23,"Nava Durga",16,16,11,0
+192,"Surendra Chaudhary",1177,Gallamandi,24,"Mutual Trade Centre",25,25,9,0
+194,"Gaurab Basnet",1193,"Sadarline road",25,"Vijay Kumar Goyl",24,24,15,0
+228,"Sushan Nepal",1207,"Padampur Road MD",20,"Delight Distributors",25,22,6,3
+225,"Tulram Chaudhary",1226,Hasanpur,26,"Kalapatthar Traders",19,19,19,0
+226,"Bindu Kathriya",1227,"Hasanpur S",26,"Kalapatthar Traders",14,14,14,0
+237,"Ram Kanta",1270,"Talchowk to Bijaypur",27,"Roshani & Roshan Suppliers",21,14,13,7
+42,"Hari Babu",39,"Makhan I",6,"Amazon Distributors Tahachal",29,29,16,0
+36,"Krishna Simkhada",58,Thankot,8,"Sayapatri Enterprises",16,16,7,0
+22,"Subash Basnet",78,"Tangal A",5,"Amazon Distributors Patan",19,19,11,0
+34,"Bhishan Thapa",96,"Phulbari A",28,GDPL,10,10,6,0
+52,"Bashu Dev Phuyal",111,Gongabu,9,"Om Devaya Trade Concern",14,14,4,0
+54,"Uday Budhathoki",112,Mayeepee,9,"Om Devaya Trade Concern",29,29,18,0
+53,"Avinash Chaudhary",114,Mitranagar,9,"Om Devaya Trade Concern",23,23,19,0
+33,"Bipin Yadav",127,"Om Hospital Street A1",7,"General Distributors",22,22,19,0
+29,"Sriram Bhandari",132,"Kupondol B",5,"Amazon Distributors Patan",21,21,15,0
+85,"Sudip Pyakurel",134,"Bisalnagar A1",7,"General Distributors",22,22,18,0
+24,"Sudarshan Joshi",136,"Kupondol height B",5,"Amazon Distributors Patan",17,17,10,0
+39,"David Gautam",137,"Kapan Gopi Krishna A3",7,"General Distributors",26,26,13,0
+45,"Santosh Basnet",138,"Chokachee gali",6,"Amazon Distributors Tahachal",28,28,10,0
+28,"Dinprasad Subedi",140,"Dhobighat B",5,"Amazon Distributors Patan",20,20,13,0
+44,"Prakash Pradhan",144,"Indra Chowk",6,"Amazon Distributors Tahachal",25,25,10,0
+41,"Raj Kumar Kandel",149,"New Baneswor",28,GDPL,13,11,9,2
+21,"Ravi Shrestha",174,BUSPARK,3,"Smart Marketing Suppliers",19,19,9,0
+11,"Sushan Karmacharya",193,"28 kilo",3,"Smart Marketing Suppliers",12,12,8,0
+55,"Ujjawal Giri",226,Satungal,8,"Sayapatri Enterprises",25,25,7,0
+40,"Rajiv Das",241,"Phulbari A2",7,"General Distributors",26,26,12,0
+43,"Man Bahadur",253,Kuleswor-T,6,"Amazon Distributors Tahachal",29,29,14,0
+87,"Jeevan Shahi",259,"Kalopul C",7,"General Distributors",21,21,8,0
+88,"Regan Regmi",263,"Gahana pokhari c",7,"General Distributors",29,29,16,0
+65,"Amrit Paudel",267,Lokanthali,4,"Pyramid Distributors Pvt",20,20,9,0
+67,"Dipan Dhungana",268,Kausaltar,4,"Pyramid Distributors Pvt",18,18,13,0
+66,"Sushant Neupane",269,Balkot,4,"Pyramid Distributors Pvt",18,18,7,0
+49,"Kalayan Bhujel",279,"Buddhanagar 1 A",10,"Elite Marketing",19,19,14,0
+86,"Kiran Pyakurel",292,"Chhapal Karkhana c",7,"General Distributors",26,26,14,0
+46,"Netra Bhattarai",298,"Kamalpokhari A",10,"Elite Marketing",27,27,15,0
+62,"Suresh Gothe",307,"Pilachhe S",5,"Amazon Distributors Patan",27,27,16,0
+48,"Anil Lama",310,"Tripureshwar A",10,"Elite Marketing",30,30,19,0
+70,"Bikash Maharjan",318,"Lubhu Y",16,"Youbik Trade",16,16,8,0
+63,"Tashi Lama",341,"Sundhara Gawarko T",5,"Amazon Distributors Patan",24,24,11,0
+61,"Manoj Maharjan",370,"Mangalbajar sundhara D",5,"Amazon Distributors Patan",15,15,6,0
+71,"Pawan Maharjan",382,"Hattiban BY",16,"Youbik Trade",21,21,9,0
+64,"Umesh Prasad Bhatt",402,"Inner sougal U",5,"Amazon Distributors Patan",28,28,16,0
+50,"Dinesh Kumar Tharu",443,"Shankhamul II A",10,"Elite Marketing",20,20,17,0
+82,"Sudip Subedi",493,Balambu-S,8,"Sayapatri Enterprises",19,19,12,0
+77,"Sultan Miya",538,"Dhalku- I",9,"Om Devaya Trade Concern",20,19,10,1
+76,"Bishal Khanal",547,Khusibu-I,9,"Om Devaya Trade Concern",33,33,19,0
+183,"Pragyan Kapar",649,"Balkot hight",4,"Pyramid Distributors Pvt",14,14,5,0
+184,"Prajit KC",654,"Sanothimi Bkt",4,"Pyramid Distributors Pvt",15,15,5,0
+95,"Dharmendra Ray Yadav",680,"Tikathali 2 yb",16,"Youbik Trade",16,16,11,0
+80,"Ranjit Kumar",683,Maharajgunj,17,"General Marketing",4,4,2,0
+120,"Anil Rai",744,Mainroad,11,"Horizon Distributors Biratnagar",18,18,6,0
+129,"Khagendra Niraula",745,"Urlabari Bazar",14,"Horizon Distributors Damak",21,21,13,0
+118,"Sumit Shrestha",750,"Hospital Chowk",11,"Horizon Distributors Biratnagar",19,19,13,0
+123,"Sabin Bhattarai",781,"Itahari Purba Line",12,"New Horizon Distributors Itahari",17,17,7,0
+117,"Suraj Timalsina",798,Kochakhal,11,"Horizon Distributors Biratnagar",44,44,29,0
+117,"Suraj Timalsina",808,"Puspalal Chowk",11,"Horizon Distributors Biratnagar",33,33,29,0
+131,"Gopal Acharya",859,"Urlabari To Sijuwa",14,"Horizon Distributors Damak",18,18,11,0
+122,"Arjun Dahal",899,"Bus Park Road",12,"New Horizon Distributors Itahari",21,21,12,0
+145,"Madhav Chapagain",917,"Panthi Line WS",19,"Regency Trading",17,17,13,0
+147,"Sanju Thapa Magar",941,"Baglung Buspark MD",19,"Regency Trading",25,25,15,0
+156,"Sabita Dahal",945,"Shrejana Chowk MD",19,"Regency Trading",26,26,10,0
+148,"Nishan Subedi",953,"Bishal Bazar MD",19,"Regency Trading",28,28,15,0
+151,"Shiva Nepali",958,"Birauta MD",19,"Regency Trading",20,20,9,0
+146,"Kishan Nepali",959,"Chhorepatan MM",19,"Regency Trading",8,8,8,0
+154,"Janaki Pokharel",973,"Baglung Buspark SM",19,"Regency Trading",24,24,12,0
+149,"Kopila Chuwain",980,"Nadipur SM",19,"Regency Trading",31,31,18,0
+176,"Samikchya Rana",986,"Banstolathar Road SM",19,"Regency Trading",31,31,18,0
+174,"Navaraj Baniya",1085,Gaindakot,21,"Saraswoti Traders",20,20,9,0
+124,"Santosh Ghimire",1108,Belbari,12,"New Horizon Distributors Itahari",19,19,7,0
+121,"Khosh Raj Ghimire",1109,Kanepokhari,12,"New Horizon Distributors Itahari",17,17,6,0
+180,"Baidanath Thakur",1113,"Maisthan To Ghodabazar",22,"Janabi Distributors Pvt",17,17,13,0
+181,"Ramesh Thakur",1115,Murli,22,"Janabi Distributors Pvt",28,28,18,0
+181,"Ramesh Thakur",1116,Birta,22,"Janabi Distributors Pvt",23,23,16,0
+182,"Sunny Gupta",1128,"Rail Road",22,"Janabi Distributors Pvt",25,25,17,0
+192,"Surendra Chaudhary",1184,Medicalline,24,"Mutual Trade Centre",29,29,25,0
+194,"Gaurab Basnet",1196,Yakline,25,"Vijay Kumar Goyl",27,27,19,0
+225,"Tulram Chaudhary",1229,Chauraha,26,"Kalapatthar Traders",24,24,24,0
+226,"Bindu Kathriya",1230,"Chauraha S",26,"Kalapatthar Traders",20,20,20,0
+232,"Nayan Shrestha",1257,"Dhumbarai Hight c",7,"General Distributors",20,20,11,0
+130,"Umesh Karki",1265,"Urlabari F4",14,"Horizon Distributors Damak",7,7,3,0
+237,"Ram Kanta",1271,Begnashtal,27,"Roshani & Roshan Suppliers",17,16,14,1
+42,"Hari Babu",52,"Wotu pukhya",6,"Amazon Distributors Tahachal",19,19,14,0
+34,"Bhishan Thapa",66,"Chabahil A",28,GDPL,11,11,6,0
+54,"Uday Budhathoki",121,Samakhusi-a,9,"Om Devaya Trade Concern",29,29,13,0
+53,"Avinash Chaudhary",122,Ganesthan-A,9,"Om Devaya Trade Concern",35,35,15,0
+22,"Subash Basnet",123,"Talchhikhel A",5,"Amazon Distributors Patan",19,19,10,0
+45,"Santosh Basnet",143,Ganabhal,6,"Amazon Distributors Tahachal",18,18,12,0
+44,"Prakash Pradhan",148,"Sundhara 
+",6,"Amazon Distributors Tahachal",22,22,12,0
+41,"Raj Kumar Kandel",151,"Putali Sadak",28,GDPL,9,9,8,0
+21,"Ravi Shrestha",177,"Dhulikhel ALL",3,"Smart Marketing Suppliers",21,21,7,0
+40,"Rajiv Das",194,"Gaurighat A2",7,"General Distributors",27,27,9,0
+28,"Dinprasad Subedi",195,"Patandhoka- Gahabal B",5,"Amazon Distributors Patan",18,18,13,0
+24,"Sudarshan Joshi",203,"Jawalakhel B",5,"Amazon Distributors Patan",17,17,13,0
+39,"David Gautam",205,"Tusaal A3",7,"General Distributors",20,20,13,0
+33,"Bipin Yadav",209,"Bauddha A1",7,"General Distributors",27,27,19,0
+29,"Sriram Bhandari",220,"Pulchowk B",5,"Amazon Distributors Patan",16,16,8,0
+36,"Krishna Simkhada",227,Kalanki-A,8,"Sayapatri Enterprises",19,19,8,0
+55,"Ujjawal Giri",228,Bafal,8,"Sayapatri Enterprises",18,18,7,0
+43,"Man Bahadur",254,Tankeswor-T,6,"Amazon Distributors Tahachal",23,23,18,0
+65,"Amrit Paudel",270,Gattaghar,4,"Pyramid Distributors Pvt",25,25,10,0
+66,"Sushant Neupane",271,"New Thimi",4,"Pyramid Distributors Pvt",23,23,9,0
+49,"Kalayan Bhujel",282,"Anamnagar A",10,"Elite Marketing",29,29,18,0
+62,"Suresh Gothe",293,"Thasikhel kusanti S",5,"Amazon Distributors Patan",27,27,21,0
+46,"Netra Bhattarai",299,"Naxal A",10,"Elite Marketing",28,28,19,0
+67,"Dipan Dhungana",312,"Thimi chaddabato",4,"Pyramid Distributors Pvt",17,17,7,0
+48,"Anil Lama",323,"Putalisadak A",10,"Elite Marketing",22,22,17,0
+61,"Manoj Maharjan",346,"Pulchowk Manbhawan D",5,"Amazon Distributors Patan",22,22,13,0
+77,"Sultan Miya",354,Samakhusi-I,9,"Om Devaya Trade Concern",23,23,12,0
+63,"Tashi Lama",372,"Pulchowk jawagal T",5,"Amazon Distributors Patan",27,27,12,0
+50,"Dinesh Kumar Tharu",381,"Thapagaun A",10,"Elite Marketing",22,22,14,0
+71,"Pawan Maharjan",388,"Harsiddhi BY",16,"Youbik Trade",28,28,12,0
+64,"Umesh Prasad Bhatt",428,"Pulchowk U",5,"Amazon Distributors Patan",21,21,16,0
+95,"Dharmendra Ray Yadav",462,"Godawari tahukhel ya",16,"Youbik Trade",15,15,9,0
+85,"Sudip Pyakurel",471,"Dibya Smata E1",7,"General Distributors",19,19,16,0
+87,"Jeevan Shahi",472,"BIpul2   E1",7,"General Distributors",19,19,10,0
+88,"Regan Regmi",473,"Bipulchok Nayabasti E1",7,"General Distributors",18,18,10,0
+86,"Kiran Pyakurel",501,"Nayabasti Devkota park E1",7,"General Distributors",27,27,14,0
+232,"Nayan Shrestha",505,"Pipalbot E2",7,"General Distributors",20,20,12,0
+82,"Sudip Subedi",525,"Makalu -S",8,"Sayapatri Enterprises",19,19,12,0
+76,"Bishal Khanal",563,Buspark-I,9,"Om Devaya Trade Concern",19,19,8,0
+94,"Suraj Subba",634,"Mahaboudha to shankata",6,"Amazon Distributors Tahachal",20,20,7,0
+183,"Pragyan Kapar",650,"Balkot To Chaddobatto",4,"Pyramid Distributors Pvt",16,16,5,0
+80,"Ranjit Kumar",686,Pulchowk,17,"General Marketing",9,9,5,0
+132,"Prem Pathak",715,"Pokharel Market",15,"Horizon Distributors Birtamod",19,19,7,0
+133,"Dipak Khadka",716,"Birta Bazar",15,"Horizon Distributors Birtamod",21,20,14,1
+127,"Saugat Shrestha",732,"Chatra Line",13,"Horizon Distributors Dharan",21,21,13,0
+129,"Khagendra Niraula",734,"Damak Highway",14,"Horizon Distributors Damak",23,23,14,0
+120,"Anil Rai",736,"Traffic Chowk",11,"Horizon Distributors Biratnagar",17,17,3,0
+125,"Debesh Dhungana",742,"Putali Line",13,"Horizon Distributors Dharan",18,18,11,0
+118,"Sumit Shrestha",747,"Chandani Chowk",11,"Horizon Distributors Biratnagar",17,17,9,0
+117,"Suraj Timalsina",757,"Oil Nigam",11,"Horizon Distributors Biratnagar",28,28,18,0
+134,"Netra Dahal",774,"Krishithok Small",15,"Horizon Distributors Birtamod",19,19,8,0
+128,"Subesh Shrestha",839,"Putali Line S",13,"Horizon Distributors Dharan",35,35,23,0
+121,"Khosh Raj Ghimire",850,"Hatiya Line",12,"New Horizon Distributors Itahari",22,22,10,0
+131,"Gopal Acharya",861,"Damak South",14,"Horizon Distributors Damak",20,20,9,0
+122,"Arjun Dahal",901,Inurwa,12,"New Horizon Distributors Itahari",20,18,12,2
+123,"Sabin Bhattarai",904,"Hatiya Line S",12,"New Horizon Distributors Itahari",15,15,11,0
+146,"Kishan Nepali",918,"Prithivi Chowk MM",19,"Regency Trading",9,9,7,0
+145,"Madhav Chapagain",922,"Ranipauwa LG",19,"Regency Trading",12,12,7,0
+147,"Sanju Thapa Magar",931,"Manipal MD",19,"Regency Trading",29,29,14,0
+156,"Sabita Dahal",939,"Kanhukhola MD",19,"Regency Trading",25,25,12,0
+148,"Nishan Subedi",961,"Kundar Marga MD",19,"Regency Trading",20,20,10,0
+176,"Samikchya Rana",1032,"Kazi Pokhari SM",19,"Regency Trading",23,23,8,0
+149,"Kopila Chuwain",1036,"Renipauwa SM",19,"Regency Trading",25,25,16,0
+154,"Janaki Pokharel",1039,"New Road SM",19,"Regency Trading",35,35,14,0
+165,"Prabesh Kattel",1045,"Junhall Road LG",20,"Delight Distributors",16,16,11,0
+169,"Juna Lamichhane",1051,"Hospital Road MD",20,"Delight Distributors",17,14,9,3
+173,"Reshma Majhi",1057,"Kshetrapur-Bharatpur MD",20,"Delight Distributors",22,22,5,0
+168,"Deepak Mishra",1071,"Bakulahar Chowk MD",20,"Delight Distributors",18,18,4,0
+174,"Navaraj Baniya",1083,"Pragati Nagar-Rampur Road",21,"Saraswoti Traders",22,22,8,0
+181,"Ramesh Thakur",1111,NMC,22,"Janabi Distributors Pvt",22,22,9,0
+182,"Sunny Gupta",1129,Nagwa,22,"Janabi Distributors Pvt",21,2,1,19
+189,"Krishan Ghimire",1141,"B p chok",23,"Nava Durga",19,19,4,0
+192,"Surendra Chaudhary",1181,Buddachok,24,"Mutual Trade Centre",24,24,19,0
+194,"Gaurab Basnet",1197,"New road line",25,"Vijay Kumar Goyl",22,22,14,0
+135,"Hari Bhetwal",1208,Bhadrapur-2,15,"Horizon Distributors Birtamod",14,14,10,0
+225,"Tulram Chaudhary",1235,Chatakpur,26,"Kalapatthar Traders",18,18,16,0
+226,"Bindu Kathriya",1236,"Chatakpur S",26,"Kalapatthar Traders",9,9,7,0
+151,"Shiva Nepali",1278,"Naya Gau MD",19,"Regency Trading",17,17,12,0
+34,"Bhishan Thapa",70,"Narantar A",28,GDPL,10,10,6,0
+22,"Subash Basnet",79,"Sanepa A",5,"Amazon Distributors Patan",14,14,9,0
+42,"Hari Babu",119,Pako,6,"Amazon Distributors Tahachal",14,14,11,0
+54,"Uday Budhathoki",130,Ranibari-A,9,"Om Devaya Trade Concern",27,27,12,0
+53,"Avinash Chaudhary",133,Pragatinagar,9,"Om Devaya Trade Concern",25,25,11,0
+41,"Raj Kumar Kandel",150,"Old Baneswor",28,GDPL,10,10,8,0
+39,"David Gautam",156,"Narantar A3",7,"General Distributors",27,27,12,0
+44,"Prakash Pradhan",157,Nardevi,6,"Amazon Distributors Tahachal",28,28,13,0
+29,"Sriram Bhandari",164,"Bangalamukhi B",5,"Amazon Distributors Patan",18,18,12,0
+21,"Ravi Shrestha",179,"Panauti  HW",3,"Smart Marketing Suppliers",16,16,7,0
+24,"Sudarshan Joshi",181,"Saugal-Natole B",5,"Amazon Distributors Patan",18,18,7,0
+11,"Sushan Karmacharya",207,"Panauti buspark",3,"Smart Marketing Suppliers",26,26,8,0
+33,"Bipin Yadav",211,"Jorpati A1",7,"General Distributors",29,29,22,0
+40,"Rajiv Das",213,"Gokarna A2",7,"General Distributors",20,20,12,0
+28,"Dinprasad Subedi",216,"Kusunti B",5,"Amazon Distributors Patan",15,15,12,0
+36,"Krishna Simkhada",230,Arahity,8,"Sayapatri Enterprises",13,13,3,0
+45,"Santosh Basnet",239,"Dharmapath marg",6,"Amazon Distributors Tahachal",24,24,12,0
+43,"Man Bahadur",256,Kalimati-T,6,"Amazon Distributors Tahachal",13,13,8,0
+49,"Kalayan Bhujel",285,"Milanchowck A",10,"Elite Marketing",20,20,13,0
+62,"Suresh Gothe",295,"Nakhu S",5,"Amazon Distributors Patan",26,26,18,0
+46,"Netra Bhattarai",300,"Gairidhara A",10,"Elite Marketing",22,22,13,0
+66,"Sushant Neupane",317,Oldthimi,4,"Pyramid Distributors Pvt",18,18,5,0
+65,"Amrit Paudel",320,"Radharadha way",4,"Pyramid Distributors Pvt",24,24,8,0
+67,"Dipan Dhungana",322,"Sallaghari chok",4,"Pyramid Distributors Pvt",19,19,6,0
+61,"Manoj Maharjan",353,"Bhaisipati D",5,"Amazon Distributors Patan",21,21,15,0
+63,"Tashi Lama",374,"Thasikhel-Kusunti T",5,"Amazon Distributors Patan",27,27,13,0
+183,"Pragyan Kapar",384,Jaddibutti,4,"Pyramid Distributors Pvt",23,23,8,0
+71,"Pawan Maharjan",406,"Dhapakhel BY",16,"Youbik Trade",22,22,16,0
+47,"Kiran Thapa",409,"Hattigauda A",10,"Elite Marketing",23,23,16,0
+48,"Anil Lama",422,Dillibazar,10,"Elite Marketing",28,28,20,0
+64,"Umesh Prasad Bhatt",430,"Bagdol  Nakhu U",5,"Amazon Distributors Patan",22,22,11,0
+50,"Dinesh Kumar Tharu",452,"Ghattekulo II A",10,"Elite Marketing",32,32,20,0
+85,"Sudip Pyakurel",507,"Jorpati E2",7,"General Distributors",24,24,13,0
+87,"Jeevan Shahi",511,"Jorpati-Nayabasti E2",7,"General Distributors",19,19,13,0
+76,"Bishal Khanal",513,RaniBari-I,9,"Om Devaya Trade Concern",19,19,14,0
+88,"Regan Regmi",517,"Narantar Smarak E2",7,"General Distributors",20,20,13,0
+86,"Kiran Pyakurel",521,"Artho-Hospital line E2",7,"General Distributors",28,28,14,0
+77,"Sultan Miya",562,Mitranagar-II,9,"Om Devaya Trade Concern",20,20,8,0
+55,"Ujjawal Giri",566,Dhungedhara,8,"Sayapatri Enterprises",20,20,10,0
+232,"Nayan Shrestha",567,"Dachhindhoka F",7,"General Distributors",25,25,13,0
+82,"Sudip Subedi",587,"Dallu III",8,"Sayapatri Enterprises",22,22,9,0
+94,"Suraj Subba",642,"Dharmapath to lagan",6,"Amazon Distributors Tahachal",17,17,8,0
+95,"Dharmendra Ray Yadav",664,"Satdobato Gwarko yb",16,"Youbik Trade",17,17,10,0
+80,"Ranjit Kumar",685,"New Baneshwor",17,"General Marketing",5,5,4,0
+106,"Pawan Agarwal",688,"Maru Hitti",6,"Amazon Distributors Tahachal",2,2,2,0
+125,"Debesh Dhungana",698,"Gautam Path",13,"Horizon Distributors Dharan",18,18,10,0
+127,"Saugat Shrestha",700,"College Road",13,"Horizon Distributors Dharan",18,18,13,0
+118,"Sumit Shrestha",701,Rani,11,"Horizon Distributors Biratnagar",22,22,15,0
+133,"Dipak Khadka",717,"Mas Route",15,"Horizon Distributors Birtamod",9,9,7,0
+132,"Prem Pathak",720,Kakarvitta,15,"Horizon Distributors Birtamod",34,34,15,0
+121,"Khosh Raj Ghimire",722,"Manihari Line",12,"New Horizon Distributors Itahari",16,16,5,0
+131,"Gopal Acharya",727,"Kerkha To Jhiljhile",14,"Horizon Distributors Damak",24,24,14,0
+129,"Khagendra Niraula",740,"Damak Sabji Bazar",14,"Horizon Distributors Damak",21,21,14,0
+117,"Suraj Timalsina",804,"Rani 2",11,"Horizon Distributors Biratnagar",42,42,21,0
+128,"Subesh Shrestha",845,"SinghDevi Line",13,"Horizon Distributors Dharan",31,1,1,30
+120,"Anil Rai",862,"Market Area",11,"Horizon Distributors Biratnagar",20,20,12,0
+135,"Hari Bhetwal",868,Charali,15,"Horizon Distributors Birtamod",22,22,10,0
+134,"Netra Dahal",880,"Subba Chowk-Small",15,"Horizon Distributors Birtamod",21,21,11,0
+122,"Arjun Dahal",903,Halgada,12,"New Horizon Distributors Itahari",15,15,15,0
+123,"Sabin Bhattarai",905,Aitabare,12,"New Horizon Distributors Itahari",17,17,5,0
+124,"Santosh Ghimire",907,"Ithari To Jhumka",12,"New Horizon Distributors Itahari",12,12,8,0
+145,"Madhav Chapagain",919,"Nayabazar LG",19,"Regency Trading",12,12,8,0
+151,"Shiva Nepali",932,"Nayabazar MD",19,"Regency Trading",24,24,16,0
+156,"Sabita Dahal",948,"Okm MD",19,"Regency Trading",26,26,11,0
+147,"Sanju Thapa Magar",950,"Siddhartha Chowk MD",19,"Regency Trading",26,26,13,0
+148,"Nishan Subedi",954,"Parsyang MD",19,"Regency Trading",20,20,14,0
+146,"Kishan Nepali",960,"OKM MM",19,"Regency Trading",8,8,4,0
+176,"Samikchya Rana",985,"Siddhartha SM",19,"Regency Trading",26,26,12,0
+149,"Kopila Chuwain",990,"Nagdhunga SM",19,"Regency Trading",29,29,11,0
+154,"Janaki Pokharel",1023,"Nareswar SM",19,"Regency Trading",30,30,26,0
+165,"Prabesh Kattel",1050,"Putali Bazar LG",20,"Delight Distributors",15,15,6,0
+169,"Juna Lamichhane",1056,"Birendra Campus Road MD",20,"Delight Distributors",25,25,14,0
+173,"Reshma Majhi",1072,"SHAHID CHOWK SM",20,"Delight Distributors",20,20,7,0
+168,"Deepak Mishra",1074,"Sauraha Chowk MD",20,"Delight Distributors",24,24,9,0
+167,"Nishan Paudel",1100,"BP Hospital Road SM",20,"Delight Distributors",26,26,4,0
+182,"Sunny Gupta",1112,Maisthan,22,"Janabi Distributors Pvt",26,26,16,0
+180,"Baidanath Thakur",1114,"Pan Mandi To Street No-2",22,"Janabi Distributors Pvt",18,18,12,0
+181,"Ramesh Thakur",1123,Reshamkothi,22,"Janabi Distributors Pvt",15,15,11,0
+189,"Krishan Ghimire",1150,"Amarpath rammandir",23,"Nava Durga",19,19,6,0
+191,"Asis Bhatarai",1156,"Milan chok",23,"Nava Durga",19,19,13,0
+217,"Ashok Chadhary",1162,Sukkhanagar,23,"Nava Durga",20,20,11,0
+192,"Surendra Chaudhary",1183,Maitripath,24,"Mutual Trade Centre",30,30,23,0
+194,"Gaurab Basnet",1198,"Gharbari tole road",25,"Vijay Kumar Goyl",27,27,19,0
+225,"Tulram Chaudhary",1237,Mainroad,26,"Kalapatthar Traders",26,26,24,0
+226,"Bindu Kathriya",1238,"Mainroad S",26,"Kalapatthar Traders",20,20,14,0
+195,"Pradeep Kumar Kashyap",1246,"Basgadhi highway",25,"Vijay Kumar Goyl",15,15,11,0
+193,"Anil Chaudhary",1260,Saljhandi,24,"Mutual Trade Centre",36,36,19,0
+237,"Ram Kanta",1274,Dulegaunda,27,"Roshani & Roshan Suppliers",17,17,8,0
+36,"Krishna Simkhada",68,Balaju,8,"Sayapatri Enterprises",14,14,6,0
+34,"Bhishan Thapa",72,"Jorpati A",28,GDPL,13,13,8,0
+41,"Raj Kumar Kandel",74,Ratopul,28,GDPL,9,9,6,0
+22,"Subash Basnet",80,"Bhaisepati A",5,"Amazon Distributors Patan",14,14,9,0
+42,"Hari Babu",117,Makhan2,6,"Amazon Distributors Tahachal",26,26,8,0
+53,"Avinash Chaudhary",139,Basundhara-A,9,"Om Devaya Trade Concern",17,17,12,0
+54,"Uday Budhathoki",141,Tokharoad-A,9,"Om Devaya Trade Concern",31,31,16,0
+44,"Prakash Pradhan",158,Thachal,6,"Amazon Distributors Tahachal",21,21,11,0
+21,"Ravi Shrestha",172,"Banepa Highway",3,"Smart Marketing Suppliers",24,24,8,0
+11,"Sushan Karmacharya",185,"Banepa  New Buspark",3,"Smart Marketing Suppliers",14,14,10,0
+29,"Sriram Bhandari",217,"Khumaltar B",5,"Amazon Distributors Patan",21,21,17,0
+24,"Sudarshan Joshi",218,"Uma Maheswor B",5,"Amazon Distributors Patan",15,15,7,0
+28,"Dinprasad Subedi",219,"Talchhikhel B",5,"Amazon Distributors Patan",17,17,12,0
+55,"Ujjawal Giri",236,Banasthali,8,"Sayapatri Enterprises",21,21,8,0
+33,"Bipin Yadav",248,"Mahankal A1",7,"General Distributors",32,32,24,0
+43,"Man Bahadur",250,Soltemod-T,6,"Amazon Distributors Tahachal",30,30,17,0
+40,"Rajiv Das",252,"Chhuchhepati A2",7,"General Distributors",26,26,9,0
+39,"David Gautam",255,"Nyabasti A3",7,"General Distributors",20,20,15,0
+46,"Netra Bhattarai",301,"Baluwatar A",10,"Elite Marketing",22,22,14,0
+62,"Suresh Gothe",313,"Nayabato Jhamasikhel S",5,"Amazon Distributors Patan",19,19,12,0
+67,"Dipan Dhungana",324,Suryabinak,4,"Pyramid Distributors Pvt",21,21,11,0
+65,"Amrit Paudel",328,"Suryabinak to Jagata",4,"Pyramid Distributors Pvt",18,18,8,0
+66,"Sushant Neupane",331,Kamalvinak,4,"Pyramid Distributors Pvt",23,23,8,0
+48,"Anil Lama",350,"RR Height A",10,"Elite Marketing",18,18,15,0
+61,"Manoj Maharjan",356,"Dhoboghat D",5,"Amazon Distributors Patan",19,19,12,0
+63,"Tashi Lama",378,"Balkhu sanepa T",5,"Amazon Distributors Patan",19,19,10,0
+183,"Pragyan Kapar",395,"KhadaghariMicro park",4,"Pyramid Distributors Pvt",18,18,6,0
+47,"Kiran Thapa",407,"Maharajgunj A",10,"Elite Marketing",37,37,25,0
+71,"Pawan Maharjan",417,"Chasal Gwarko BY",16,"Youbik Trade",27,27,23,0
+49,"Kalayan Bhujel",423,"Pinglasthan A",10,"Elite Marketing",23,23,17,0
+64,"Umesh Prasad Bhatt",434,"Balkhu Sanepa U",5,"Amazon Distributors Patan",25,25,14,0
+50,"Dinesh Kumar Tharu",454,"Ratopul A",10,"Elite Marketing",28,28,21,0
+76,"Bishal Khanal",500,"Tokha Road- III",9,"Om Devaya Trade Concern",23,23,13,0
+85,"Sudip Pyakurel",529,"Narantar-main F",7,"General Distributors",26,26,16,0
+87,"Jeevan Shahi",531,"Narantar Raischool F",7,"General Distributors",12,12,8,0
+88,"Regan Regmi",534,"Makalbari F",7,"General Distributors",24,24,12,0
+77,"Sultan Miya",565,"Myagdi Chok",9,"Om Devaya Trade Concern",22,22,7,0
+86,"Kiran Pyakurel",569,Adikarigau-Gothatar,7,"General Distributors",19,19,10,0
+82,"Sudip Subedi",585,Bijeswori-I,8,"Sayapatri Enterprises",24,24,12,0
+94,"Suraj Subba",640,"Teku f2",6,"Amazon Distributors Tahachal",23,23,14,0
+95,"Dharmendra Ray Yadav",672,"Chapagoun yb",16,"Youbik Trade",10,10,6,0
+80,"Ranjit Kumar",682,Kamladi,17,"General Marketing",5,5,1,0
+110,"Bishal Karki",692,"Salesways Supermarket",18,"United Distributors Nepal",3,3,1,0
+133,"Dipak Khadka",695,"Sanischare Road",15,"Horizon Distributors Birtamod",25,25,15,0
+129,"Khagendra Niraula",696,"Damak Main Bazar",14,"Horizon Distributors Damak",20,20,12,0
+120,"Anil Rai",697,"Tinpaini South",11,"Horizon Distributors Biratnagar",18,18,11,0
+132,"Prem Pathak",702,Dhulabari,15,"Horizon Distributors Birtamod",21,21,7,0
+134,"Netra Dahal",719,Budhabare,15,"Horizon Distributors Birtamod",27,27,11,0
+118,"Sumit Shrestha",729,"Pokhariya A",11,"Horizon Distributors Biratnagar",14,14,10,0
+127,"Saugat Shrestha",749,"Purano Bazar",13,"Horizon Distributors Dharan",17,17,12,0
+131,"Gopal Acharya",765,"Damak Non Stop",14,"Horizon Distributors Damak",19,19,13,0
+125,"Debesh Dhungana",848,"Punya Marg",13,"Horizon Distributors Dharan",14,14,9,0
+117,"Suraj Timalsina",851,"Pokhariya 2",11,"Horizon Distributors Biratnagar",40,40,25,0
+146,"Kishan Nepali",915,"Lakeside MM",19,"Regency Trading",10,10,6,0
+145,"Madhav Chapagain",921,"Biruta LG",19,"Regency Trading",10,10,7,0
+148,"Nishan Subedi",929,"Damside MD",19,"Regency Trading",23,23,12,0
+156,"Sabita Dahal",930,"Nagdhunga MD",19,"Regency Trading",24,24,10,0
+151,"Shiva Nepali",942,"Dikopatan MD",19,"Regency Trading",25,25,19,0
+154,"Janaki Pokharel",997,"Shivalaya Chowk SM",19,"Regency Trading",27,27,12,0
+176,"Samikchya Rana",998,"Janapriya  campus SM",19,"Regency Trading",23,23,15,0
+147,"Sanju Thapa Magar",1005,"Lakeside MD",19,"Regency Trading",25,25,19,0
+149,"Kopila Chuwain",1021,"Khahare  SM",19,"Regency Trading",23,23,14,0
+165,"Prabesh Kattel",1041,"Putali Bazar WS",20,"Delight Distributors",14,14,6,0
+166,"Sweta Aryal",1049,"Belchowk MD",20,"Delight Distributors",19,19,11,0
+169,"Juna Lamichhane",1053,"Hakim Chowk MD",20,"Delight Distributors",18,18,9,0
+168,"Deepak Mishra",1094,"Shaktikhor Road MD",20,"Delight Distributors",19,19,13,0
+135,"Hari Bhetwal",1103,Dhulabari-2,15,"Horizon Distributors Birtamod",12,12,12,0
+167,"Nishan Paudel",1104,"Rampur Road SM",20,"Delight Distributors",28,28,5,0
+181,"Ramesh Thakur",1116,Birta,22,"Janabi Distributors Pvt",23,23,11,0
+180,"Baidanath Thakur",1119,Jeetpur-1,22,"Janabi Distributors Pvt",17,17,0,0
+189,"Krishan Ghimire",1143,Chauraha,23,"Nava Durga",12,12,2,0
+182,"Sunny Gupta",1148,"Makalu To Hospital",22,"Janabi Distributors Pvt",27,27,9,0
+193,"Anil Chaudhary",1185,Belahiya,24,"Mutual Trade Centre",19,19,6,0
+192,"Surendra Chaudhary",1188,"Devkota chok",24,"Mutual Trade Centre",30,30,27,0
+194,"Gaurab Basnet",1199,"Bp chowk",25,"Vijay Kumar Goyl",26,26,19,0
+195,"Pradeep Kumar Kashyap",1233,Bhurigaun,25,"Vijay Kumar Goyl",14,13,9,1
+226,"Bindu Kathriya",1240,"Campusroad S",26,"Kalapatthar Traders",23,21,16,2
+232,"Nayan Shrestha",1261,Sankhu,7,"General Distributors",11,11,10,0
+130,"Umesh Karki",1268,"Lakhanpur F4",14,"Horizon Distributors Damak",9,9,8,0
+237,"Ram Kanta",1275,Khairenitar,27,"Roshani & Roshan Suppliers",21,21,10,0
+34,"Bhishan Thapa",77,"Gpoikrishna A",28,GDPL,10,10,6,0
+22,"Subash Basnet",81,"Mangal Bazar A",5,"Amazon Distributors Patan",20,20,11,0
+42,"Hari Babu",113,Chhetrapati,6,"Amazon Distributors Tahachal",33,33,12,0
+41,"Raj Kumar Kandel",153,Kapan,28,GDPL,5,5,3,0
+21,"Ravi Shrestha",175,"Tindobatto - Ganeshthan",3,"Smart Marketing Suppliers",20,20,11,0
+29,"Sriram Bhandari",197,"AVM Chowk B",5,"Amazon Distributors Patan",15,15,11,0
+11,"Sushan Karmacharya",198,"Banepa Nalbobatto",3,"Smart Marketing Suppliers",14,14,7,0
+24,"Sudarshan Joshi",221,"Lagankhel B",5,"Amazon Distributors Patan",17,17,7,0
+54,"Uday Budhathoki",223,"Bus Park[Goungabu]",9,"Om Devaya Trade Concern",33,33,17,0
+44,"Prakash Pradhan",235,Lagan,6,"Amazon Distributors Tahachal",17,17,12,0
+55,"Ujjawal Giri",243,Kimdol,8,"Sayapatri Enterprises",18,18,6,0
+45,"Santosh Basnet",244,"Newroad -tebhal",6,"Amazon Distributors Tahachal",18,18,13,0
+53,"Avinash Chaudhary",247,Machapokhari,9,"Om Devaya Trade Concern",21,21,7,0
+43,"Man Bahadur",249,Kalanki-T,6,"Amazon Distributors Tahachal",26,26,19,0
+33,"Bipin Yadav",257,"Sukedhara clony A1",7,"General Distributors",30,30,23,0
+40,"Rajiv Das",258,"Nilopul A2",7,"General Distributors",30,30,7,0
+39,"David Gautam",277,"Faika A3",7,"General Distributors",26,26,17,0
+49,"Kalayan Bhujel",287,"Prayag Marga A",10,"Elite Marketing",24,24,17,0
+46,"Netra Bhattarai",302,"Dhumbarahi A",10,"Elite Marketing",23,23,16,0
+62,"Suresh Gothe",316,"Satdobato 1 S",5,"Amazon Distributors Patan",18,18,11,0
+67,"Dipan Dhungana",333,Chamasing,4,"Pyramid Distributors Pvt",19,19,8,0
+66,"Sushant Neupane",336,"Bhakatapur Natapole",4,"Pyramid Distributors Pvt",16,16,7,0
+65,"Amrit Paudel",339,Siddhipokhari,4,"Pyramid Distributors Pvt",26,26,9,0
+70,"Bikash Maharjan",340,"Balkumari Y",16,"Youbik Trade",19,19,8,0
+61,"Manoj Maharjan",360,"Satdobato 2 D",5,"Amazon Distributors Patan",21,21,15,0
+71,"Pawan Maharjan",376,"Balkumari BY",16,"Youbik Trade",24,24,15,0
+63,"Tashi Lama",383,"Umamaheshwar nakhipot T",5,"Amazon Distributors Patan",32,32,18,0
+47,"Kiran Thapa",397,"Nil Saraswoti marga A",10,"Elite Marketing",29,29,22,0
+183,"Pragyan Kapar",403,"Harhar mahadev",4,"Pyramid Distributors Pvt",24,24,8,0
+48,"Anil Lama",433,"Sinamongal A",10,"Elite Marketing",32,32,21,0
+64,"Umesh Prasad Bhatt",437,"AVM Thasikhel U",5,"Amazon Distributors Patan",26,26,15,0
+50,"Dinesh Kumar Tharu",446,"Minbahawan A",10,"Elite Marketing",26,26,18,0
+85,"Sudip Pyakurel",450,"Chamunda Main D",7,"General Distributors",20,20,14,0
+76,"Bishal Khanal",497,"Tokha Road- II",9,"Om Devaya Trade Concern",18,18,9,0
+86,"Kiran Pyakurel",575,"Attarkhel G",7,"General Distributors",18,18,11,0
+88,"Regan Regmi",577,"Attar-krishnmandir East G",7,"General Distributors",17,17,10,0
+87,"Jeevan Shahi",586,"Gokarna G",7,"General Distributors",18,18,6,0
+232,"Nayan Shrestha",592,"NMC Attarkhel East G",7,"General Distributors",20,20,11,0
+94,"Suraj Subba",643,"Yetkha to Dhokatole",6,"Amazon Distributors Tahachal",20,20,11,0
+95,"Dharmendra Ray Yadav",675,"Gwarko Kist hospital yb",16,"Youbik Trade",13,13,9,0
+110,"Bishal Karki",692,"Salesways Supermarket",18,"United Distributors Nepal",3,1,1,2
+125,"Debesh Dhungana",724,"Mahendra Path",13,"Horizon Distributors Dharan",21,21,15,0
+127,"Saugat Shrestha",746,"Zero Point",13,"Horizon Distributors Dharan",29,29,19,0
+118,"Sumit Shrestha",780,"Keshliya  Road A",11,"Horizon Distributors Biratnagar",35,35,14,0
+120,"Anil Rai",794,"Hospital Line",11,"Horizon Distributors Biratnagar",21,21,13,0
+123,"Sabin Bhattarai",817,"Itahari Bus Park",12,"New Horizon Distributors Itahari",16,16,4,0
+124,"Santosh Ghimire",833,Jhumka,12,"New Horizon Distributors Itahari",17,17,4,0
+117,"Suraj Timalsina",840,Pichara,11,"Horizon Distributors Biratnagar",38,38,24,0
+122,"Arjun Dahal",856,Tarahara,12,"New Horizon Distributors Itahari",18,18,15,0
+133,"Dipak Khadka",872,"Btm Bus Park",15,"Horizon Distributors Birtamod",21,21,13,0
+134,"Netra Dahal",874,"Kankai Road",15,"Horizon Distributors Birtamod",22,22,7,0
+121,"Khosh Raj Ghimire",900,"Sasastra Camp",12,"New Horizon Distributors Itahari",26,26,9,0
+146,"Kishan Nepali",916,"Ram Bazar MM",19,"Regency Trading",12,12,10,0
+145,"Madhav Chapagain",924,"Buddha chowk  LG",19,"Regency Trading",8,8,5,0
+156,"Sabita Dahal",927,"Chhorepatan MD",19,"Regency Trading",18,18,2,0
+151,"Shiva Nepali",935,"Ram Bazar MD",19,"Regency Trading",24,24,15,0
+147,"Sanju Thapa Magar",938,"Amar Singh Chowk MD",19,"Regency Trading",20,20,14,0
+148,"Nishan Subedi",940,"Hospital Line MD",19,"Regency Trading",24,24,13,0
+154,"Janaki Pokharel",975,"Birauta SM",19,"Regency Trading",31,31,15,0
+149,"Kopila Chuwain",1011,"Indra Marga SM",19,"Regency Trading",22,22,14,0
+176,"Samikchya Rana",1014,"Amarsingh Chowk SM",19,"Regency Trading",16,16,12,0
+169,"Juna Lamichhane",1052,"Cancer Hospital Road MD",20,"Delight Distributors",24,23,12,1
+166,"Sweta Aryal",1055,"Malpot Road MD",20,"Delight Distributors",19,19,11,0
+168,"Deepak Mishra",1077,"Parsa Bank Tole MD",20,"Delight Distributors",20,20,5,0
+167,"Nishan Paudel",1102,"Katahar Chowk SM",20,"Delight Distributors",25,25,7,0
+135,"Hari Bhetwal",1106,Charpane,15,"Horizon Distributors Birtamod",19,19,19,0
+181,"Ramesh Thakur",1117,Ranighat,22,"Janabi Distributors Pvt",22,22,13,0
+180,"Baidanath Thakur",1120,Jeetpur-2,22,"Janabi Distributors Pvt",18,18,11,0
+182,"Sunny Gupta",1136,"Pani Tanki",22,"Janabi Distributors Pvt",21,21,13,0
+189,"Krishan Ghimire",1142,"Nepalgung  road",23,"Nava Durga",20,20,0,0
+191,"Asis Bhatarai",1157,Goikuti,23,"Nava Durga",19,19,7,0
+217,"Ashok Chadhary",1164,"Kalika nagar small",23,"Nava Durga",10,2,2,8
+192,"Surendra Chaudhary",1186,Naranpath,24,"Mutual Trade Centre",21,21,11,0
+80,"Ranjit Kumar",1202,Chabahil,17,"General Marketing",5,5,1,0
+195,"Pradeep Kumar Kashyap",1234,"Rajha airport",25,"Vijay Kumar Goyl",22,22,15,0
+225,"Tulram Chaudhary",1241,"Hospital Line",26,"Kalapatthar Traders",21,21,17,0
+226,"Bindu Kathriya",1242,"Hospital Line S",26,"Kalapatthar Traders",21,21,14,0
+237,"Ram Kanta",1270,"Talchowk to Bijaypur",27,"Roshani & Roshan Suppliers",21,9,9,12
